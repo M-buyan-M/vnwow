@@ -1,0 +1,54 @@
+{
+  "_from": "v-wow",
+  "_id": "v-wow@1.2.1",
+  "_inBundle": false,
+  "_integrity": "sha1-dsEjfYjMg5Q5djjYtk+DYgkg+nI=",
+  "_location": "/v-wow",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "v-wow",
+    "name": "v-wow",
+    "escapedName": "v-wow",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.nlark.com/v-wow/download/v-wow-1.2.1.tgz",
+  "_shasum": "76c1237d88cc8394397638d8b64f83620920fa72",
+  "_spec": "v-wow",
+  "_where": "D:\\jq\\jqofficial",
+  "author": {
+    "name": "mirrorthink"
+  },
+  "bugs": {
+    "url": "https://github.com/mirrorthink/vue-wow/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ispire by wow.js Reveal CSS animation as you scroll down a page",
+  "homepage": "https://github.com/mirrorthink/vue-wow#readme",
+  "keywords": [
+    "vue",
+    "wow",
+    "Reveal",
+    "CSS",
+    "animation"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "v-wow",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mirrorthink/vue-wow.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.1"
+}
