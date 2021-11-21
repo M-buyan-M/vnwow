@@ -6,6 +6,7 @@ export default {
      * @param  {object} options  lazyload options
      */
     install (Vue, options = {}) {
+        // console.log(111);
       
             Vue.directive('wow', {
                 bind(el, binding){
